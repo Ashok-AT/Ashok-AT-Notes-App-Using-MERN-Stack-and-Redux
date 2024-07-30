@@ -64,13 +64,16 @@ A simple web application for taking short notes.
 ### Backend
 
 Navigate to the `backend` directory:
+
 ```bash
 cd backend
+```
 
 1. **Install dependencies:**
 
     ```bash
-    npm install```
+    npm install
+    ```
 
 2. **Set up environment variables in a `.env` file:**
 
