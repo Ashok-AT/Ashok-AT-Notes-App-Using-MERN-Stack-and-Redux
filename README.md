@@ -70,8 +70,7 @@ cd backend
 1. **Install dependencies:**
 
     ```bash
-    npm install
-    ```
+    npm install```
 
 2. **Set up environment variables in a `.env` file:**
 
